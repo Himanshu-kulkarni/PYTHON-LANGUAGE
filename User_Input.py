@@ -10,3 +10,4 @@ age = age + 1
 print(f"hello {name}!")
 print(f"HAPPY BIRTHDAY {name}")
 print(f"You are {age} years old!")
+print("hello world")
